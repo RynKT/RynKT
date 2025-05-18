@@ -1,6 +1,5 @@
 # Hey there world! I'm Ryan!
 
 - I'm CCNA and Security+ Certified!
-- I’m currently learning network engineering!
-- I'm also currently learning cybersecurity!
-- and I'm self studying AWS Solutions Architect - Associate to become the best SysAdmin that I can be.
+- I’m currently focused on network engineering!
+- and I'm a cybersecurity major!
